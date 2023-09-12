@@ -1,0 +1,12 @@
+.horizontal {
+    border: 5px solid #b48e00; 
+    width: 40%;
+    
+}
+
+.vertical {
+    border: 5px solid #b48e00; 
+    width: 0%;
+    height: 100px;
+    float: inline-start;
+}
